@@ -1,7 +1,7 @@
 import React, { useContext } from 'react';
 
-
-import { GlobalContact, GlobalContext } from '../context/GlobalState';
+//import { GlobalContact, GlobalContext } from '../context/GlobalState';
+import { GlobalContext } from '../context/GlobalState';
 
 //import Transaction
 
