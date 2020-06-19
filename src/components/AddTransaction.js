@@ -10,11 +10,11 @@ export const AddTransection = () =>{
         <div>
             <h3> Add New Transection </h3>
             <form>
-                <div className="form-control">
-                    <label htmlFor='description'>
-                             Description  
+               <div className="form-control">
+                    <label htmlFor="description">
+                        Description 
                     </label>
-                    <input  type="test"
+                    <input  type="text" 
                             id="description"
                             placeholder="Detail of Transaction"
                             value={description}
