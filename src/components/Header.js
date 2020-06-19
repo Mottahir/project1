@@ -3,11 +3,11 @@ import React from 'react';
 export const Header = () => {
 
     return (
-       <h1>
+       <h2>
            Expense Tracker BY Mottahir
            
-       </h1>
-      );
+       </h2>
+      )
 
 }
 

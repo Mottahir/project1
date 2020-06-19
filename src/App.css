@@ -34,12 +34,13 @@ h2 {
   letter-spacing: 1px;
   margin: 0;
   text-align: center;
+  padding-bottom: 20px;
 }
 
 h3 {
   border-bottom: 1px solid #bbb;
   padding-bottom: 10px;
-  margin: 40px 0 10px;
+  margin: 30px 0 10px;
   text-align: center;
 }
 
@@ -74,12 +75,12 @@ h4 {
 }
 
 .money.plus {
-  color: #045315;
+  color: #15e915;
   font-weight: bold;
 }
 
 .money.minus {
-  color: #dd2209;
+  color: #ec250b;
   font-weight: bold;
 }
 
