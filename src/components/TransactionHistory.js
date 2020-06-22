@@ -1,11 +1,12 @@
 import React, { useContext } from 'react';
+import { Transaction } from './Transaction';
+
 
 //import { GlobalContact, GlobalContext } from '../context/GlobalState';
 import { GlobalContext } from '../context/GlobalState';
 
 //import Transaction
 
-import { Transaction } from './Transaction'
 
 export const TransactionHistory = () =>{
 
